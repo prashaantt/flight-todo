@@ -1,0 +1,19 @@
+{
+  "name": "flight-todo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.x.x",
+    "flight": "~1.2.0",
+    "requirejs": "~2.1.5",
+    "components-bootstrap": "3.x.x",
+    "hogan": "~3.0.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

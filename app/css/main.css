@@ -1,0 +1,12 @@
+.input {
+  margin-top: 50px;
+}
+
+.items {
+  list-style: none;
+  padding-left: 0;
+}
+
+[data-completed=true] {
+  color: #ccc;
+}
